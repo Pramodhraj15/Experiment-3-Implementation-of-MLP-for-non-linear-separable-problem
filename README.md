@@ -39,7 +39,7 @@ Step 3: Repeat the  iteration  until the losses become constant and
              (v)   Append the losses in a list
 Step 4 : Test for the XOR patterns.
 
-** PROGRAM** 
+ PROGRAM:
 ```
 NAME:PRAMODH R
 REG NO:212221040128
@@ -113,6 +113,8 @@ predict(w1,w2,test)
 
 
  OUTPUT:
+ 
+ 
  ![image](https://user-images.githubusercontent.com/130092183/235592231-d6d3036b-d874-4dad-a74b-5ffef191930c.png)
 
  
@@ -121,4 +123,6 @@ predict(w1,w2,test)
 
 
  RESULT:
+ 
+ 
 Thus a MLP is implemented for non linear separable problem using Python
