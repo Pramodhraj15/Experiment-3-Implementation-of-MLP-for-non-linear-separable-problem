@@ -109,8 +109,17 @@ predict(w1,w2,test)
 ```
 
 
+
+
+
  OUTPUT:
- ![image](https://user-images.githubusercontent.com/130092183/235591848-7644cc07-1fcf-4bdb-8ccf-14d766af1014.png)
+ [image](https://user-images.githubusercontent.com/130092183/235591848-7644cc07-1fcf-4bdb-8ccf-14d766af1014.png)
+ 
+ 
+ 
+ 
+ 
+ 
 
 
  RESULT:
